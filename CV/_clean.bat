@@ -1,0 +1,1 @@
+del *.log *.out *.aux *.synctex.gz
